@@ -1,1 +1,1 @@
-console.log('Somnath')
+console.log(2+undefined)
